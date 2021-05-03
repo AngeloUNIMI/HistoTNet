@@ -1,0 +1,2 @@
+def pause():
+    input("paused...")

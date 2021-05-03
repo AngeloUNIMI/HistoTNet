@@ -1,0 +1,61 @@
+
+classesADP = list()
+classesADP.append({
+    'name': 'L1',
+    'numClasses': 9,
+    'classesNames': ['E', 'C', 'H', 'S', 'A', 'M', 'N', 'G', 'T']
+})
+classesADP.append({
+    'name': 'L2',
+    'numClasses': 26,
+    'classesNames': ['E',
+                     'E.M', 'E.T',
+                     'C',
+                     'C.D', 'C.L',
+                     'H',
+                     'H.E', 'H.K', 'H.Y',
+                     'S',
+                     'S.M', 'S.C', 'S.R',
+                     'A',
+                     'A.W', 'A.M',
+                     'M',
+                     'N',
+                     'N.P', 'N.R', 'N.G',
+                     'G',
+                     'G.O', 'G.N',
+                     'T']
+})
+classesADP.append({
+    'name': 'L3',
+    'numClasses': 38,
+    'classesNames': ['E',
+                     'E.M',
+                     'E.M.S', 'E.M.C',
+                     'E.T',
+                     'E.T.S', 'E.T.C',
+                     'C',
+                     'C.D',
+                     'C.D.I', 'C.D.R',
+                     'C.L',
+                     'H',
+                     'H.E',
+                     'H.K',
+                     'H.Y',
+                     'S',
+                     'S.M',
+                     'S.C',
+                     'S.R',
+                     'A',
+                     'A.W',
+                     'A.M',
+                     'M',
+                     'N',
+                     'N.P',
+                     'N.R',
+                     'N.G',
+                     'N.G.M', 'N.G.A', 'N.G.O', 'N.G.E', 'N.G.R', 'N.G.T',
+                     'G',
+                     'G.O',
+                     'G.N',
+                     'T']
+})
