@@ -1,6 +1,6 @@
 # HistoTNet
 
-Matlab source code for the paper:
+Pytorch source code for the paper:
 
 	A. Genovese, M. S. Hosseini, V. Piuri, K. N. Plataniotis, and F. Scotti, 
     "Histopathological transfer learning for Acute Lymphoblastic Leukemia detection", 
@@ -30,6 +30,8 @@ Main files:
 - (2) PyTorch_HistoTNet/pytorch_histotnet.py: training/testing of the HistoTNet.
 
 Instructions:
+
+0) Install the required packages (see packages.txt)
 
 1) cd to "(1) PyTorch_HistoNet" and run "pytorch_histonet.py" to train the HistoNet on the ADP database, implemented according to the paper:
 
