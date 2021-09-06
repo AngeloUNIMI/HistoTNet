@@ -7,7 +7,9 @@ Pytorch source code for the paper:
 	in Proc. of the 2021 IEEE Int. Conf. on Computational Intelligence and Virtual Environments for Measurement Systems and Applications (CIVEMSA 2021), 
 	June 18-20, 2021, pp. 1-6. 
 	ISBN: 978-1-6654-1249-0. [DOI: 10.1109/CIVEMSA52099.2021.9493677]
-	https://ieeexplore.ieee.org/document/9493677
+	
+Paper:
+https://ieeexplore.ieee.org/document/9493677
 	
 Project page:
 
