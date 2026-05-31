@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\UoT\Projects\CNN SoA for ALL\Code\PyTorch_ADP_HistoNet_fineTune_ALL_IDB\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
